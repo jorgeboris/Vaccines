@@ -1,0 +1,122 @@
+.navbar-custom{
+    height: 110px;
+}
+
+.navbar {
+    background: white !important;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    color: #3D51CE !important;
+    margin-left: 85px;
+    font-weight: bold;
+}
+
+.nav-link{
+    font-weight: bold;
+    margin-right: 50px;
+    
+}
+
+.boton-custom{
+    width: 150px;
+    height: 45px;
+    background: #3D51CE;
+    color: white;
+    margin-right: 70px;
+}
+
+.boton-custom:hover{
+    color: white;
+}
+
+.nurse img{
+    width: 65%;
+    height: 500px;
+    position: relative;
+    margin-top: 25%;
+    margin-left: 23%;
+}
+
+.divNurse{
+    background-color: #2E81DE;
+}
+
+.encabezado{
+    color: #203968;
+    font-size: 57px;
+    font-weight: bold;
+    margin-top: 17%;
+    margin-left: 24%;
+    line-height: 60px;
+}
+
+.parrafo1{
+    color: gray;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-left: 24%;
+}
+
+.escudo img{
+    height: 25px;
+    width: 25px;
+}
+
+.estrella img{
+    height: 25px;
+    width: 25px;
+}
+
+.escudo{
+    margin-left: 22% !important;
+}
+
+.iconos{
+    color: #415984;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.horario{
+    margin-top: 100px;
+    margin-left: 23%;
+    font-size: 20px;
+    font-weight: bold;
+    color: #415984;
+    letter-spacing: 1px;
+}
+
+.horario img{
+    width: 25px;
+    height: 25px;
+}
+
+.astrazeneca{
+    margin-left: 10%;
+    width: 250px;
+    height: 100px;
+    margin-top: 35px;
+}
+
+.sinovac{
+    margin-left: 30px;
+    width: 250px;
+    height: 50px;
+    margin-top: 70px;
+}
+
+.pfizer{
+    margin-left: 30px;
+    width: 200px;
+    height: 80px;
+    margin-top: 70px;
+}
+
+.moderna{
+    margin-left: 30px;
+    margin-top: 75px;
+    width: 250px;
+    height: 100px;
+}
